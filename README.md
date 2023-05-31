@@ -36,8 +36,10 @@
 ![React-Query](https://img.shields.io/badge/react_query-FF4154.svg?style=flat&logo=reactquery&logoColor=white)
 ![React-Router](https://img.shields.io/badge/react_router-CA4245.svg?style=flat&logo=reactrouter&logoColor=white)
 ![NextJS](https://img.shields.io/badge/nextjs-000000.svg?style=flat&logo=nextdotjs&logoColor=white)
+
 ![VueJS](https://img.shields.io/badge/vuejs-%2335495e.svg?style=flat&logo=vuedotjs&logoColor=%234FC08D)
 ![Vuex](https://img.shields.io/badge/vuex-%2335495e.svg?style=flate&logo=vuedotjs&logoColor=%234FC08D)
+
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 ![Styled-Components](https://img.shields.io/badge/Styled_Components-DB7093?style=flat&logo=styledcomponents&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white)

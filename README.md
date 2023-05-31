@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Rect&color=0:c9e3c4,100:a6e192&height=100&section=header&text=안뇽&fontSize=25&animation=twinkling&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=Rect&color=0:c9e3c4,100:a6e192&height=100&section=header&text=YONG&fontSize=25&rotate=-30&fontColor=ffffff)
 
 <br>
 

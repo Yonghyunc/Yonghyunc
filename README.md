@@ -48,12 +48,4 @@
 ![Jira](https://img.shields.io/badge/jira-0052CC.svg?style=flat&logo=jirasoftware&logoColor=white)
 ![Notion](https://img.shields.io/badge/notion-000000.svg?style=flat&logo=notion&logoColor=white)
 
-<br>
 
-## About Me
-
-[![Notion](https://img.shields.io/badge/notion-000000.svg?style=flat&logo=notion&logoColor=white)](https://www.notion.so/Yong-fb79a92c6d55470c875bddf2ebe843d4?pvs=4)
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYonghyunc&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
-<br>
